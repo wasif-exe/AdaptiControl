@@ -34,12 +34,27 @@ app_aliases = {
     "browser": "chrome",
     "file explorer": "explorer",
     "downloads": "explorer Downloads",
-    "notepad": "notepad",
-    "terminal": "cmd",
+    "documents": "explorer Documents",
+    "pictures": "explorer Pictures",
     "task manager": "taskmgr",
+    "control panel": "control",
+    "settings": "start ms-settings:",
+    "terminal": "wt",
+    "powershell": "powershell",
+    "notepad": "notepad",
     "word": "winword",
-    "excel": "excel"
+    "excel": "excel",
+    "powerpoint": "powerpnt",
+    "calculator": "calc",
+    "calendar": "start outlookcal:",
+    "media player": "wmplayer",
+    "spotify": "spotify",
+    "photos": "ms-photos:",
+    "camera": "microsoft.windows.camera:",
+    "vscode": "code",
+    "chat": "start chat_script.py"
 }
+
 
 
 
