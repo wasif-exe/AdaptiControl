@@ -85,7 +85,7 @@ def run_asl_ui():
         cv2.putText(panel, f"{int(confidence * 100)}%", (bar_x + 70, bar_y + 23), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 0), 2)
 
         full_frame = np.hstack((img, panel))
-        cv2.imshow("ASL Recognition with UI", full_frame)
+        cv2.imshow("AdaptiControl", full_frame)
 
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
