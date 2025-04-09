@@ -38,7 +38,7 @@ This tool is specifically designed for individuals with physical disabilities wh
 ## **Installation**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/accessible-computer-control.git
+   git clone https://github.com/wasif-exe/AdaptiControl.git
    ```
 2. Install the required dependencies:
    ```bash
